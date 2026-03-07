@@ -9,17 +9,17 @@
 
 ## 🚀 Tech Stack
 
-**Languages:** Java, C++ (Basics)
-**Backend:** Spring Boot, JDBC
-**Database:** MySQL
-**Web Technologies:** HTML, CSS
-**Tools & Platforms:** Git, GitHub, Eclipse, AI Tools
+**Languages:** Java, C++ (Basics).
+**Backend:** Spring Boot, JDBC.
+**Database:** MySQL.
+**Web Technologies:** HTML, CSS.
+**Tools & Platforms:** Git, GitHub, Eclipse, AI Tools.
 
 ---
 
 ## 📈 Currently Focused On
 
-* Strengthening **DSA & Problem Solving**
+* Strengthening **DSA & Problem Solving**.
 * Building **Java Backend Projects**
 * Learning **REST APIs with Spring Boot**
 * Improving **System Design Basics**

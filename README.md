@@ -20,9 +20,9 @@
 ## 📈 Currently Focused On
 
 * Strengthening **DSA & Problem Solving**.
-* Building **Java Backend Projects**
-* Learning **REST APIs with Spring Boot**
-* Improving **System Design Basics**
+* Building **Java Backend Projects**.
+* Learning **REST APIs with Spring Boot**.
+* Improving **System Design Basics**.
 
 ---
 

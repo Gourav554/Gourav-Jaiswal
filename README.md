@@ -10,7 +10,9 @@
 ## 🚀 Tech Stack
 
 **Languages:** Java, C++ (Basics).
-Backend: Spring Boot, JDBC.
+
+**Backend**: Spring Boot, JDBC.
+
 **Database:** MySQL.
 **Web Technologies:** HTML, CSS.
 **Tools & Platforms:** Git, GitHub, Eclipse, AI Tools.

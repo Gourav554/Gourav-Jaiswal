@@ -43,5 +43,6 @@ https://www.linkedin.com/in/gourav-jaiswal-426134354/
 ## Achivements
 * - 🚀 Solved **95+ DSA problems on LeetCode**.
 * - 💻 Developed **Backend Applications using Java, Spring Boot, and MySQL**.
+* - 📚 Strong knowledge of **Object-Oriented Programming (OOP)** and **Java Collections**.
 
 ⭐ *Always learning, building, and improving as a developer.*

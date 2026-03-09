@@ -45,4 +45,4 @@ https://www.linkedin.com/in/gourav-jaiswal-426134354/
 * - 💻 Developed **Backend Applications using Java, Spring Boot, and MySQL**.
 * - 📚 Strong knowledge of **Object-Oriented Programming (OOP)** and **Java Collections**.
 
-⭐ *Always learning, building, and improving as a developer.*
+⭐ *Always learning a new Skills, building, and improving as a developer.*

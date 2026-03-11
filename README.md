@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Gourav
 
 💻 **Aspiring Java Backend Developer** passionate about building scalable web applications and improving problem-solving skills.
-
-🌱 Currently learning **Spring Boot, MySQL, and Backend Development**.
-📚 Practicing **Data Structures & Algorithms on LeetCode** to strengthen logical thinking.
+🌱 Currently learning **Spring Boot, MySQL, and Backend Development**.  
+📚 Practicing **Data Structures & Algorithms on LeetCode** to strengthen logical thinking.  
 
 ---
 

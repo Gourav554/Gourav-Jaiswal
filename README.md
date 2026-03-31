@@ -40,7 +40,7 @@ https://www.linkedin.com/in/gourav-jaiswal-426134354/
 ---
 
 ## Achivements
-* - 🚀 Solved **95+ DSA problems on LeetCode**.
+* - 🚀 Solved **100+ DSA problems on LeetCode**.
 *  **Earn a Java Programming Language Certificate By IBM**.
 * - 💻 Developed **Backend Applications using Java, Spring Boot, and MySQL**.
 * - 📚 Strong knowledge of **Object-Oriented Programming (OOP)** and **Java Collections**.

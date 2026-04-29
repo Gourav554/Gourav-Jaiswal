@@ -43,6 +43,7 @@ https://www.linkedin.com/in/gourav-jaiswal-426134354/
 * - 🚀 Solved **150+ DSA problems on LeetCode**.
 * - 🚀 Solved **30+ Coding problems on Geel For Feeks**.
 *  **Earn a Java Programming Language Certificate By IBM**.
+*  **Earn a Generative Al Certificate By Google**.
 * - 💻 Developed **Backend Applications using Java, Spring Boot, and MySQL**.
 * - 📚 Strong knowledge of **Object-Oriented Programming (OOP)** and **Java Collections**.
  

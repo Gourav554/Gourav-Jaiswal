@@ -63,8 +63,7 @@ https://www.linkedin.com/in/gourav-jaiswal-426134354/
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
 </p>
- JDBC 💾  
- Cursor AI 🤖
+ 
 
 
 ⭐ *Always learning a new Skills, building, and improving as a developer.*

@@ -42,7 +42,7 @@ https://www.linkedin.com/in/gourav-jaiswal-426134354/
 ---
 
 ## Achivements
-* - 🚀 Solved **150+ DSA problems on LeetCode**.
+* - 🚀 Solved **190+ DSA problems on LeetCode**.
 * - 🚀 Solved **30+ Coding problems on Geek For Geeks**.
 *  **Earn a Java Programming Language Certificate By IBM**.
 *  **Earn a Generative Al Certificate By Google**.

@@ -10,7 +10,7 @@
 
 **Languages:** Java, C++ (Basics).
 
-**Backend**: Spring Boot, JDBC.
+**Backend**: Spring Boot, JDBC, RestAPI.
 
 **Database:** MySQL.
 

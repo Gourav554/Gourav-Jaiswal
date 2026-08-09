@@ -16,7 +16,7 @@
 
 **Web Technologies:** HTML, CSS.
 
-**Tools & Platforms:** Git, GitHub, Eclipse, AI Tools.
+**Tools & Platforms:** Git, GitHub, Eclipse, Lovable, N8N, AI Tools.
 
 ---
 
@@ -42,8 +42,8 @@ https://www.linkedin.com/in/gourav-jaiswal-426134354/
 ---
 
 ## Achivements
-* - 🚀 Solved **200+ DSA problems on LeetCode**.
-* - 🚀 Solved **55+ Coding problems on Geek For Geeks**.
+* - 🚀 Solved **240+ DSA problems on LeetCode**.
+* - 🚀 Solved **70+ Coding problems on Geek For Geeks**.
 *    **Earn a Java Programming Language Certificate By IBM**.
 *    **Earn a Generative Al Certificate By Google**.
 * - 💻 Developed **Backend Applications using Java, Spring Boot, and MySQL**.
